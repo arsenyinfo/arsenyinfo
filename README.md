@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a machine learning engineer mostly focused on computer vision problems. Currently employed at [Instrumental](https://instrumental.com/).
+I am a machine learning engineer mostly focused on deep learning and MLops problems. Currently on sabbatical finishing the ["Machine Learning System Design with end-to-end examples" book](https://arseny.info/ml_design_book).
+
 Feel free to reach me via me@arseny.info. 
 
 Links:
