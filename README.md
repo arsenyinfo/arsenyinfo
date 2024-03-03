@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a machine learning engineer mostly focused on deep learning and MLops problems. Currently on sabbatical finishing the ["Machine Learning System Design with end-to-end examples" book](https://arseny.info/ml_design_book).
+I am a machine learning engineer mostly focused on deep learning and ML infra problems, co-author of the ["Machine Learning System Design with end-to-end examples" book](https://arseny.info/ml_design_book).
+
+Currently working as Staff ML engineer for [Instrumental](https://instrumental.com/).
 
 Feel free to reach me via me@arseny.info. 
 
